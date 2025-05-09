@@ -31,10 +31,6 @@ ul li a:hover {
      color: rgb(196, 93, 157);
 }
 
-ol{
-    list-style-type: upper-roman;
-}
-
 body {
     background: #020024;
     background: linear-gradient(90deg,rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(1, 87, 105, 1) 100%);
